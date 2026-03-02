@@ -11,9 +11,15 @@
     <title>{{ $title }}</title>
 
     <style>
-        a {
-            color: blue;
-            text-decoration: none;
+        .max-w-400 {
+            max-width: 400px;
+            margin: auto;   
+        }
+
+        .card {
+            background: gray; 
+            padding: 1rem; 
+            text-align: center;
         }
     </style>
 </head>

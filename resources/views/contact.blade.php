@@ -1,4 +1,7 @@
 <x-layout title="Contact">
     <h1>Contact Us</h1>
-    <input type="number">
+
+    <x-card class="max-w-400">
+        <p>placeholder</p>
+    </x-card>
 </x-layout>
